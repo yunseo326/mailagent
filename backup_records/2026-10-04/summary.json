@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-04",
+  "timezone": "Asia/Seoul",
+  "repository": "yunseo326/mailagent",
+  "branch": "backup/2026-10-04",
+  "parent_commit": "9193efa8bf836136df1a191cd0331effcae0d0ce",
+  "original_remote_main": null,
+  "selected_file_count": 12,
+  "selected_bytes": 38054,
+  "new_or_changed_files": 12,
+  "source_projects": [
+    "mailagent"
+  ],
+  "sanitized_files": [
+    {
+      "path": ".env.example",
+      "fields": [
+        "example_credentials_and_addresses"
+      ]
+    }
+  ],
+  "excluded_reason_counts": {
+    "runtime_or_link": 2,
+    "credential_file": 1,
+    "private_mail_output": 23
+  },
+  "restore_notes": "Python 3.11+ standard-library NAVER/NAVER WORKS mail preprocessor. Copy .env.example to a new .env and configure fresh NAVER_WORKS_APP_PASSWORD and optional NAVER_MAIL_APP_PASSWORD. Re-enter account/recipient addresses. Old credentials, 22 mail summaries, runtime logs, and virtual environment are intentionally absent. Recreate any scheduler manually after reviewing run_daily.ps1. No mail was fetched or sent during backup.",
+  "security_scan": {
+    "repo": "mailagent",
+    "text_files": 12,
+    "bytes_scanned": 38066,
+    "binary_not_secret_text_scanned": [],
+    "finding_count": 0
+  },
+  "reviewed_noncredential_hash_findings": [],
+  "unresolved_findings": [],
+  "source_programs_executed": false,
+  "local_unpushed_history_uploaded": false,
+  "python_parse_errors": [],
+  "new_metadata_files": 4,
+  "deleted_from_backup_tree_only": []
+}

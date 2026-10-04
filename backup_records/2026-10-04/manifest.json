@@ -1,0 +1,124 @@
+[
+  {
+    "project": "mailagent",
+    "path": ".env.example",
+    "remote_path": ".env.example",
+    "source_sha256": "f95e2c0008e5f42508b87413a723e64e490ed3d04232f95ae1b6f72edf417ffd",
+    "sha256": "adede77dc85666747246bbc0d9203c80956a3b3874a14fec4e5886f7cf060565",
+    "git_blob": "47fdb1d3b6dcc8ee1709d075a44ebe0d6290375a",
+    "upload_size": 637,
+    "sanitized": [
+      "example_credentials_and_addresses"
+    ]
+  },
+  {
+    "project": "mailagent",
+    "path": ".gitignore",
+    "remote_path": ".gitignore",
+    "source_sha256": "8b0fbd4c39b016c49cd2bea3a59b3824c346d05871388d2e3b691e5a1e91a4a1",
+    "sha256": "8b0fbd4c39b016c49cd2bea3a59b3824c346d05871388d2e3b691e5a1e91a4a1",
+    "git_blob": "f1d8049dc448a3f40068eb29e6d84641aac175d6",
+    "upload_size": 89,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "AGENTS.md",
+    "remote_path": "AGENTS.md",
+    "source_sha256": "0b6ad018ce0dad2ac4d8a21534dcdeadec9abd3ef8138e988ef9f20e563c1ea6",
+    "sha256": "0b6ad018ce0dad2ac4d8a21534dcdeadec9abd3ef8138e988ef9f20e563c1ea6",
+    "git_blob": "9e9a0a1d42de3d0dd6742d840ed31c9cd28f0528",
+    "upload_size": 927,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "README.md",
+    "remote_path": "README.md",
+    "source_sha256": "1d985bb398b6269c4806b85d2bf638e0c5587f6e014e35e4225860df8c77a514",
+    "sha256": "1d985bb398b6269c4806b85d2bf638e0c5587f6e014e35e4225860df8c77a514",
+    "git_blob": "5fb332bd5b961b7238380ae9c036c5347b2858c2",
+    "upload_size": 6308,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "classifier.py",
+    "remote_path": "classifier.py",
+    "source_sha256": "867bca8f84ac7a04f3d935040cf40fda6933282f8249a72a5cdaafe6773e0b38",
+    "sha256": "867bca8f84ac7a04f3d935040cf40fda6933282f8249a72a5cdaafe6773e0b38",
+    "git_blob": "8bc5411c9e3f8b50c9d26373a4f3d27b8944a638",
+    "upload_size": 6638,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "config.py",
+    "remote_path": "config.py",
+    "source_sha256": "014a558dd691b4b973a08d00443bae940176d89c5e8c4120e0fe4321d8a40634",
+    "sha256": "014a558dd691b4b973a08d00443bae940176d89c5e8c4120e0fe4321d8a40634",
+    "git_blob": "926ca48a4e1881134c7c7ea5f529d41c72cfb0ac",
+    "upload_size": 4139,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "mail_reader.py",
+    "remote_path": "mail_reader.py",
+    "source_sha256": "60c4416a6ce6f30462bb6b33f07d87b54f0e0ee8dbf4183f65a4030693b1d8ab",
+    "sha256": "60c4416a6ce6f30462bb6b33f07d87b54f0e0ee8dbf4183f65a4030693b1d8ab",
+    "git_blob": "188c6bc28c1cacf8704eb81274e109c0323d9506",
+    "upload_size": 7017,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "mail_sender.py",
+    "remote_path": "mail_sender.py",
+    "source_sha256": "23e82438ad24ba252d6f5318b867e1282bf6669540be867dd7226346eaa4f499",
+    "sha256": "23e82438ad24ba252d6f5318b867e1282bf6669540be867dd7226346eaa4f499",
+    "git_blob": "d05f660a494c24c0a49564cfd556c6867e31101e",
+    "upload_size": 1810,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "main.py",
+    "remote_path": "main.py",
+    "source_sha256": "a7100529c253db3a2b24cb19e27ce360722d1c54cf71a09b0213b026b48003a0",
+    "sha256": "a7100529c253db3a2b24cb19e27ce360722d1c54cf71a09b0213b026b48003a0",
+    "git_blob": "bcf281f559892b5b797a45bbc220bbb39111673e",
+    "upload_size": 6852,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "requirements.txt",
+    "remote_path": "requirements.txt",
+    "source_sha256": "81cf23813bd3641f1fcd52fafcdb82d234e525051562d353a47686accbbd12f4",
+    "sha256": "81cf23813bd3641f1fcd52fafcdb82d234e525051562d353a47686accbbd12f4",
+    "git_blob": "0e5cf4724db27bb5131a84939ca61093f4d6f7ea",
+    "upload_size": 68,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "run_daily.ps1",
+    "remote_path": "run_daily.ps1",
+    "source_sha256": "b0898f4770292f723e2cbd1926ce9a161916adeba5443e0c0547047d6adab3af",
+    "sha256": "b0898f4770292f723e2cbd1926ce9a161916adeba5443e0c0547047d6adab3af",
+    "git_blob": "2aacadd3a240d9ecdd7f0102b3316dbbe99e25ba",
+    "upload_size": 1546,
+    "sanitized": []
+  },
+  {
+    "project": "mailagent",
+    "path": "summary_builder.py",
+    "remote_path": "summary_builder.py",
+    "source_sha256": "c08350037fd7ec19323320cb893e086c08a5b41a7730c0072ab3e154a31fb003",
+    "sha256": "c08350037fd7ec19323320cb893e086c08a5b41a7730c0072ab3e154a31fb003",
+    "git_blob": "b86bd0f9d96e65bc0e68e88b2f5513be0dae5fe2",
+    "upload_size": 2023,
+    "sanitized": []
+  }
+]
